@@ -11,6 +11,6 @@ Feel free to fork a copy of this repository and push anything you've added up, I
 Please follow this format for the files
 
 ```
-[Company] - [Date in DD:MM:YY format] - [Your Name]
+[Company] - [Presenter name] - [Date in DD-MM-YY format] - [Your Name]
 
-e.x.: Twitter - 12/16/2021 - Dainyl Cua
+e.x.: Twitter - Kenneth Ofosu - 12-16-2021 - Dainyl Cua
