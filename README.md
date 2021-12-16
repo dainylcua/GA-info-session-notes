@@ -4,7 +4,7 @@ A GitHub repository for anyone to share notes / summaries about any info session
 
 ## How to use
 
-Feel free to fork a copy of this repository and push anything you've added up, I will try to finish any pull requests as soon as possible!
+Feel free to fork a copy of this repository and push anything you've added up, I will try to finish any pull requests as soon as possible and sort by company!
 
 ### Format
 
