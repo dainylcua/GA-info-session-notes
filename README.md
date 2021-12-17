@@ -8,7 +8,7 @@ Feel free to fork a copy of this repository and push anything you've added up, I
 
 ### Format
 
-Please follow this format for the files
+Please follow this format for the files and use `Markdown`
 
 ```
 [Company] - [Presenter name] - [Date in DD-MM-YY format] - [Your Name]
